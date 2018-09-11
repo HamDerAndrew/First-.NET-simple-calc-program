@@ -1,0 +1,6 @@
+D:\Uddannelse\PBA Webdevelopment\1.Sem\Web Programming\introduction to visualstudio\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+D:\Uddannelse\PBA Webdevelopment\1.Sem\Web Programming\introduction to visualstudio\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+D:\Uddannelse\PBA Webdevelopment\1.Sem\Web Programming\introduction to visualstudio\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+D:\Uddannelse\PBA Webdevelopment\1.Sem\Web Programming\introduction to visualstudio\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+D:\Uddannelse\PBA Webdevelopment\1.Sem\Web Programming\introduction to visualstudio\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+D:\Uddannelse\PBA Webdevelopment\1.Sem\Web Programming\introduction to visualstudio\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
